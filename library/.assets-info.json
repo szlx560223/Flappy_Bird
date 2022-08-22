@@ -11,7 +11,7 @@
     "time": 1660711639645.6765
   },
   "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\main.scene": {
-    "time": 1660921877167.711,
+    "time": 1661179796755.0334,
     "uuid": "f98039cf-fa85-42ba-a31d-32946fdcce5d",
     "missing": false
   },
@@ -117,7 +117,7 @@
     "missing": false
   },
   "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture": {
-    "time": 1660742788049.857,
+    "time": 1661179720679.0654,
     "uuid": "50c04225-1dff-4a21-a899-dfc084b5331c",
     "missing": false
   },
@@ -1518,5 +1518,21 @@
   },
   "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\book.png.meta": {
     "time": 1660742991026.542
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\commonBtn01.png": {
+    "time": 1656809150884.555,
+    "uuid": "e0a54573-f2d1-4142-a1eb-c5083ff5aa43",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\commonBtn02.png": {
+    "time": 1656809150885.5515,
+    "uuid": "b72e389b-3719-4437-b931-d85f0c544ae5",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\commonBtn01.png.meta": {
+    "time": 1661179745253.036
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\commonBtn02.png.meta": {
+    "time": 1661179749946.045
   }
 }

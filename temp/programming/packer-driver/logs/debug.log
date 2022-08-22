@@ -1,11 +1,11 @@
-debug: Sun, 21 Aug 2022 04:15:39 GMT
+debug: Mon, 22 Aug 2022 14:48:40 GMT
 debug: Project: E:\04Project\Cocos\FlappyBird
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: E:\00Software\CocosDashboard\resources\.editors\Creator\3.6.0\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 1.2065999992191792ms.
+debug: Loading cache costs 2.495200000703335ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 1.532200001180172ms.
+debug: Loading cache costs 1.6114000007510185ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -46,7 +46,7 @@ debug: Our import map(foo:/bar): {
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 3.338800000026822ms.
+debug: Fetch asset-db cost: 3.753099996596575ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 7
 Feature changed: false
@@ -78,20 +78,16 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts. Last mtime: Wed Aug 10 2022 22:24:59 GMT+0800 (香港标准时间)@bc88c88b-899b-4918-8c0f-7caa4ffb4e81, Current mtime: Sun Aug 21 2022 12:08:25 GMT+0800 (香港标准时间)@bc88c88b-899b-4918-8c0f-7caa4ffb4e81
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Aug 21 2022 12:11:16 GMT+0800 (香港标准时间), Current mtime: Sun Aug 21 2022 12:15:33 GMT+0800 (香港标准时间)
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Aug 21 2022 12:15:33 GMT+0800 (香港标准时间), Current mtime: Mon Aug 22 2022 22:48:33 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve ./GameManager from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts. Last mtime: Wed Aug 10 2022 22:26:38 GMT+0800 (香港标准时间)@01ab088c-b53d-4e7f-ba3a-031890833e67, Current mtime: Sun Aug 21 2022 12:00:51 GMT+0800 (香港标准时间)@01ab088c-b53d-4e7f-ba3a-031890833e67
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/x/cc.
@@ -101,12 +97,8 @@ debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as cce:/internal/x/cc.
 debug: Resolve ./Setting from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts. Last mtime: Tue Aug 09 2022 21:38:11 GMT+0800 (香港标准时间)@0bea080b-53e7-4776-ab1a-6face1963509, Current mtime: Tue Aug 16 2022 13:58:44 GMT+0800 (香港标准时间)@0bea080b-53e7-4776-ab1a-6face1963509
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts as cce:/internal/x/cc.
 debug: Resolve ./MenuManager from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts. Last mtime: Tue Aug 09 2022 20:48:57 GMT+0800 (香港标准时间)@64f33bf1-f653-4041-92b9-f477bb58cdee, Current mtime: Sun Aug 21 2022 12:09:47 GMT+0800 (香港标准时间)@64f33bf1-f653-4041-92b9-f477bb58cdee
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/x/cc.
@@ -116,22 +108,18 @@ debug: Resolve ./GameData from file:///E:/04Project/Cocos/FlappyBird/assets/scri
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts. Last mtime: Sun Jul 24 2022 23:20:27 GMT+0800 (香港标准时间)@27dd40e4-cbfd-4207-b75b-34192531d3c1, Current mtime: Sun Aug 21 2022 12:10:16 GMT+0800 (香港标准时间)@27dd40e4-cbfd-4207-b75b-34192531d3c1
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts. Last mtime: Wed Aug 10 2022 22:52:32 GMT+0800 (香港标准时间)@2100efc0-ba74-41d7-b0ad-7a08e005c9f2, Current mtime: Fri Aug 19 2022 23:12:51 GMT+0800 (香港标准时间)@2100efc0-ba74-41d7-b0ad-7a08e005c9f2
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve ./Setting from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
-debug: Target(editor) ends with cost 458.2529999986291ms.
+debug: Target(editor) ends with cost 106.39029999822378ms.
 debug: Target(preview) build started.
 debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/x/cc
@@ -161,20 +149,16 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts. Last mtime: Wed Aug 10 2022 22:24:59 GMT+0800 (香港标准时间)@bc88c88b-899b-4918-8c0f-7caa4ffb4e81, Current mtime: Sun Aug 21 2022 12:08:25 GMT+0800 (香港标准时间)@bc88c88b-899b-4918-8c0f-7caa4ffb4e81
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Aug 21 2022 12:11:16 GMT+0800 (香港标准时间), Current mtime: Sun Aug 21 2022 12:15:33 GMT+0800 (香港标准时间)
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun Aug 21 2022 12:15:33 GMT+0800 (香港标准时间), Current mtime: Mon Aug 22 2022 22:48:33 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as cce:/internal/x/cc.
 debug: Resolve ./GameManager from file:///E:/04Project/Cocos/FlappyBird/assets/script/BirdCtrl.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts. Last mtime: Wed Aug 10 2022 22:26:38 GMT+0800 (香港标准时间)@01ab088c-b53d-4e7f-ba3a-031890833e67, Current mtime: Sun Aug 21 2022 12:00:51 GMT+0800 (香港标准时间)@01ab088c-b53d-4e7f-ba3a-031890833e67
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as cce:/internal/x/cc.
@@ -184,12 +168,8 @@ debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as cce:/internal/x/cc.
 debug: Resolve ./Setting from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts. Last mtime: Tue Aug 09 2022 21:38:11 GMT+0800 (香港标准时间)@0bea080b-53e7-4776-ab1a-6face1963509, Current mtime: Tue Aug 16 2022 13:58:44 GMT+0800 (香港标准时间)@0bea080b-53e7-4776-ab1a-6face1963509
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts as cce:/internal/x/cc.
 debug: Resolve ./MenuManager from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts. Last mtime: Tue Aug 09 2022 20:48:57 GMT+0800 (香港标准时间)@64f33bf1-f653-4041-92b9-f477bb58cdee, Current mtime: Sun Aug 21 2022 12:09:47 GMT+0800 (香港标准时间)@64f33bf1-f653-4041-92b9-f477bb58cdee
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts as cce:/internal/x/cc.
@@ -199,24 +179,20 @@ debug: Resolve ./GameData from file:///E:/04Project/Cocos/FlappyBird/assets/scri
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameData.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts. Last mtime: Sun Jul 24 2022 23:20:27 GMT+0800 (香港标准时间)@27dd40e4-cbfd-4207-b75b-34192531d3c1, Current mtime: Sun Aug 21 2022 12:10:16 GMT+0800 (香港标准时间)@27dd40e4-cbfd-4207-b75b-34192531d3c1
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChange.ts as cce:/internal/x/cc.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts.
-debug: Detected change: file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts. Last mtime: Wed Aug 10 2022 22:52:32 GMT+0800 (香港标准时间)@2100efc0-ba74-41d7-b0ad-7a08e005c9f2, Current mtime: Fri Aug 19 2022 23:12:51 GMT+0800 (香港标准时间)@2100efc0-ba74-41d7-b0ad-7a08e005c9f2
-debug: Inspect file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts
 debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/code-quality/cr.mjs.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as cce:/internal/x/cc.
 debug: Resolve ./Setting from file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
-debug: Target(preview) ends with cost 378.81589999981225ms.
+debug: Target(preview) ends with cost 102.5629000030458ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 12.837000001221895ms.
+debug: Fetch asset-db cost: 12.56920000165701ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 7
 Feature changed: false
@@ -230,7 +206,7 @@ debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChan
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts.
-debug: Target(editor) ends with cost 32.972999999299645ms.
+debug: Target(editor) ends with cost 34.64819999784231ms.
 debug: Target(preview) build started.
 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (香港标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (香港标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
@@ -241,4 +217,4 @@ debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/GameSceneChan
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/MenuManager.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/Setting.ts.
 debug: Resolve file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/04Project/Cocos/FlappyBird/assets/script/SettingManager.ts.
-debug: Target(preview) ends with cost 27.00709999911487ms.
+debug: Target(preview) ends with cost 28.164299998432398ms.
