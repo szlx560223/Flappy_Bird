@@ -1,0 +1,174 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 40560,
+          "length": 22464,
+          "count": 5616,
+          "stride": 4
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          1
+        ],
+        "indexView": {
+          "offset": 64304,
+          "length": 672,
+          "count": 168,
+          "stride": 4
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          2
+        ],
+        "indexView": {
+          "offset": 155616,
+          "length": 55200,
+          "count": 13800,
+          "stride": 4
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          3
+        ],
+        "indexView": {
+          "offset": 273776,
+          "length": 36336,
+          "count": 9084,
+          "stride": 4
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 40560,
+          "count": 1014,
+          "stride": 40
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_color",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 63024,
+          "length": 1280,
+          "count": 32,
+          "stride": 40
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_color",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 64976,
+          "length": 90640,
+          "count": 2266,
+          "stride": 40
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_color",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 210816,
+          "length": 62960,
+          "count": 1574,
+          "stride": 40
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_color",
+            "format": 44,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.00921397190541029,
+      "y": -0.007525980472564697,
+      "z": -0.007101235445588827
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.0084508266299963,
+      "y": 0.007525980472564697,
+      "z": 0.0032964551355689764
+    }
+  },
+  "_hash": 1092718645,
+  "_allowDataAccess": true
+}

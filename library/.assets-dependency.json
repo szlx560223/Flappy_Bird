@@ -1,0 +1,21 @@
+{
+  "path": {
+    "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.fnt": [
+      "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.png"
+    ],
+    "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.fnt": [
+      "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.png"
+    ]
+  },
+  "uuid": {
+    "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material\\brick.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\04Project\\Cocos\\FlappyBird\\assets\\material\\brick.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  }
+}

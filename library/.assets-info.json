@@ -1,0 +1,1522 @@
+{
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene.meta": {
+    "time": 1658051798185.109
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene": {
+    "time": 1660922375651.687,
+    "uuid": "7d0c00c7-87af-462c-92bd-f659ac9ab9a2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\main.scene.meta": {
+    "time": 1660711639645.6765
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\main.scene": {
+    "time": 1660921877167.711,
+    "uuid": "f98039cf-fa85-42ba-a31d-32946fdcce5d",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\game.scene.meta": {
+    "time": 1660711639637.8594
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\game.scene": {
+    "time": 1660750903107.1287,
+    "uuid": "beb2a1ae-8fd2-4666-a256-ef7590646160",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script.meta": {
+    "time": 1658055393756.3235
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script": {
+    "time": 1660531853730.455,
+    "uuid": "dc95263a-c937-4259-906b-3eb21b0243cd",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameManager.ts.meta": {
+    "time": 1658055406044.4749
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameManager.ts": {
+    "time": 1661054451593.2288,
+    "uuid": "01ab088c-b53d-4e7f-ba3a-031890833e67",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameSceneChange.ts.meta": {
+    "time": 1658056151415.059
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameSceneChange.ts": {
+    "time": 1661055016158.171,
+    "uuid": "27dd40e4-cbfd-4207-b75b-34192531d3c1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\BirdCtrl.ts.meta": {
+    "time": 1658569521033.4563
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\BirdCtrl.ts": {
+    "time": 1661054905159.9297,
+    "uuid": "bc88c88b-899b-4918-8c0f-7caa4ffb4e81",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab.meta": {
+    "time": 1658590713882.8025
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab": {
+    "time": 1661006162354.14,
+    "uuid": "6acab76f-2bb7-4d95-9f63-0829c053bd74",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab\\brick.prefab.meta": {
+    "time": 1660749659938.2798
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab\\brick.prefab": {
+    "time": 1660749659935.3484,
+    "uuid": "f9512591-9a75-4033-9f2e-7ddeedb8a20c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\MenuManager.ts.meta": {
+    "time": 1659232885176.0635
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\MenuManager.ts": {
+    "time": 1661054987135.1704,
+    "uuid": "64f33bf1-f653-4041-92b9-f477bb58cdee",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\Setting.ts.meta": {
+    "time": 1660051160470.514
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\Setting.ts": {
+    "time": 1660629524965.1084,
+    "uuid": "0bea080b-53e7-4776-ab1a-6face1963509",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameData.ts.meta": {
+    "time": 1660052693613.1228
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\GameData.ts": {
+    "time": 1660143119977.7048,
+    "uuid": "a69ef45e-72e4-45fb-94b4-10874780555f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\SettingManager.ts.meta": {
+    "time": 1660060446979.3076
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\script\\SettingManager.ts": {
+    "time": 1660921971791.4739,
+    "uuid": "2100efc0-ba74-41d7-b0ad-7a08e005c9f2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\scene.zip": {
+    "time": 1660107179747.2148,
+    "uuid": "20a5f91f-6809-46a1-8b7f-7cb3f8d34f4c",
+    "missing": true
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\scene\\scene.zip.meta": {
+    "time": 1660107208019.4436
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\fbx": {
+    "time": 1660531853627.1787,
+    "uuid": "6f7a40a7-0c40-4e66-94b4-21cfb419f81b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture": {
+    "time": 1660742788049.857,
+    "uuid": "50c04225-1dff-4a21-a899-dfc084b5331c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\fbx\\flappybird.fbx": {
+    "time": 1659665167373.6724,
+    "uuid": "c44fce58-af7f-4b35-9794-8551f0119bae",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bg_day.png": {
+    "time": 1394762505622.2705,
+    "uuid": "479e22db-900c-4a54-819e-6be599d59280",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bg_night.png": {
+    "time": 1394762505627.2715,
+    "uuid": "e350590f-0d40-4eb3-9b18-29fa50045031",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_0.png": {
+    "time": 1394762505628.2703,
+    "uuid": "388e0bd6-9f9a-405d-a479-6401066a4bc7",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_1.png": {
+    "time": 1394762505629.2705,
+    "uuid": "a246f4e8-970e-4dc6-b842-f592130b263a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_2.png": {
+    "time": 1394762505630.2705,
+    "uuid": "2e17dc14-648b-448b-aa05-95dcf3a65ec9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_0.png": {
+    "time": 1394762505631.2712,
+    "uuid": "b089d980-8e06-4147-a9c7-c95d268844e4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_1.png": {
+    "time": 1394762505632.272,
+    "uuid": "253dc258-ac90-403b-ad92-07c2e87380e4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_2.png": {
+    "time": 1394762505632.272,
+    "uuid": "c1df6dc5-8822-4b05-9a98-208fa9c2a0ad",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_0.png": {
+    "time": 1394762505633.271,
+    "uuid": "bc6de68b-ca80-4732-8b93-025719cb35ea",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_1.png": {
+    "time": 1394762505634.2712,
+    "uuid": "317e78fe-1c12-45f2-b62f-fb46865673f6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_2.png": {
+    "time": 1394762505635.2725,
+    "uuid": "430c6ece-743d-4772-ab33-c1783ab63d60",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\black.png": {
+    "time": 1394762505636.2722,
+    "uuid": "7f809e21-1d8b-4d74-8ff3-c7f910e0c1e1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_00.png": {
+    "time": 1394762505636.2722,
+    "uuid": "62b01b45-07a6-4b49-8aa9-d283d44188bf",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_01.png": {
+    "time": 1394762505637.2715,
+    "uuid": "bb8fe55e-e9db-451f-b61b-4b895f296c0a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_02.png": {
+    "time": 1394762505638.273,
+    "uuid": "739dd0ca-3afc-4bc8-adfc-d02e380d43db",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\brand_copyright.png": {
+    "time": 1394762505639.2722,
+    "uuid": "69fedf95-098d-449a-a6ec-7977cb148823",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_menu.png": {
+    "time": 1394762505639.2722,
+    "uuid": "4b033aa5-9869-4421-8684-7055e1997d87",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_ok.png": {
+    "time": 1394762505640.2715,
+    "uuid": "7810b8cf-8c81-4af4-a879-3c21b738151a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_pause.png": {
+    "time": 1394762505641.272,
+    "uuid": "465ef6a4-6793-4f56-a114-67fa3402f37f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_play.png": {
+    "time": 1394762505642.2722,
+    "uuid": "9f3c4f14-f726-4ba9-950d-28c573dfd629",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_rate.png": {
+    "time": 1394762505643.274,
+    "uuid": "7bfb47e5-d0b7-405d-87cd-e30c31116df5",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_resume.png": {
+    "time": 1394762505644.2737,
+    "uuid": "c7aa847d-16f4-412e-88e5-5bcd09b7f4e1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_score.png": {
+    "time": 1394762505645.2737,
+    "uuid": "9d7be919-080e-4955-b972-8fa5711c065b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_share.png": {
+    "time": 1394762505646.2725,
+    "uuid": "8d8fd138-aca0-45e0-9696-0d01ec9d248c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_048.png": {
+    "time": 1394762505646.2725,
+    "uuid": "55666eca-75e4-4d90-8b46-0fa536dbbd94",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_049.png": {
+    "time": 1394762505647.2742,
+    "uuid": "93a23345-31b3-4c92-9a2a-6f52b45417e6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_050.png": {
+    "time": 1394762505648.2727,
+    "uuid": "f9eee700-80ce-4b47-956e-52f7bf464489",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_051.png": {
+    "time": 1394762505649.2734,
+    "uuid": "8afc2495-d35b-4803-98ac-db4de0691d26",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_052.png": {
+    "time": 1394762505652.2732,
+    "uuid": "edf839e7-8863-4f0a-a59c-dfc86782c0cb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_053.png": {
+    "time": 1394762505653.2742,
+    "uuid": "d64a19b1-27e0-4630-bbc6-ab9136a2bf32",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_054.png": {
+    "time": 1394762505654.2744,
+    "uuid": "c8bc606e-e4a5-495d-9d51-e23a092a1de9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_055.png": {
+    "time": 1394762505655.2747,
+    "uuid": "bc94984f-02fd-4ff0-b8aa-ae24a8c94793",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_056.png": {
+    "time": 1394762505657.275,
+    "uuid": "6d7aa0e1-018f-49af-b09a-247517ef798f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_057.png": {
+    "time": 1394762505716.3318,
+    "uuid": "86075db5-fa93-407d-8370-38b0991cbe91",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\land.png": {
+    "time": 1394762505722.3298,
+    "uuid": "cca1f289-643f-43c7-991e-f322c23112fb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_0.png": {
+    "time": 1394762505724.3303,
+    "uuid": "a968d56d-fe7d-4f4b-890d-50f05c517e87",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_1.png": {
+    "time": 1394762505726.3325,
+    "uuid": "fd422bf4-4007-49bb-b858-bad8bced6c05",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_2.png": {
+    "time": 1394762505728.3442,
+    "uuid": "a7467faf-6b90-453c-b8c9-3220f61d2517",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_3.png": {
+    "time": 1394762505730.3438,
+    "uuid": "37873887-5330-4cf3-b7e1-b9b5feaf346d",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\new.png": {
+    "time": 1394762505732.346,
+    "uuid": "dcca0d57-b0d3-450e-a5d5-552f99b97d29",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_00.png": {
+    "time": 1394762505733.3442,
+    "uuid": "9efe092d-3550-48a6-98be-fd7f8b9b7b5c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_01.png": {
+    "time": 1394762505734.3394,
+    "uuid": "1a92781e-1380-455c-a8e5-16479875203a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_02.png": {
+    "time": 1394762505735.3308,
+    "uuid": "67f11d34-99ba-4db0-ad42-5ef90e69b9ea",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_03.png": {
+    "time": 1394762505735.3308,
+    "uuid": "b4d2cab4-3cc2-4402-b119-23c08f4a5401",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_04.png": {
+    "time": 1394762505736.3313,
+    "uuid": "971de7c9-5c7f-4cc7-929b-183335704e50",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_05.png": {
+    "time": 1394762505737.3306,
+    "uuid": "53e433e4-672e-415c-9e8c-13bf81367918",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_06.png": {
+    "time": 1394762505738.34,
+    "uuid": "e0c33c66-0c05-40f9-8de3-7ca229e4a831",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_07.png": {
+    "time": 1394762505739.3313,
+    "uuid": "f555acf8-8c56-48e5-81cb-7d6d086159ed",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_08.png": {
+    "time": 1394762505739.3313,
+    "uuid": "632c6dc3-ec43-417e-a719-cc04c743f789",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_09.png": {
+    "time": 1394762505740.3315,
+    "uuid": "e2bf1635-415c-4172-a649-2ae2e5f658e6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_10.png": {
+    "time": 1394762505741.3308,
+    "uuid": "c05427fa-03ca-472e-a8b5-3276445ec90a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_00.png": {
+    "time": 1394762505742.3403,
+    "uuid": "d15751b4-2e81-45a0-945c-9438f18538b9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_01.png": {
+    "time": 1394762505743.3318,
+    "uuid": "f3a9b874-ffaa-4f74-b6ed-4d702a03203b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_02.png": {
+    "time": 1394762505744.3408,
+    "uuid": "23fae726-2d36-4702-8d25-969c23154238",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_03.png": {
+    "time": 1394762505745.332,
+    "uuid": "0111a4e7-d36e-4689-8d86-22c0a343632a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_04.png": {
+    "time": 1394762505745.332,
+    "uuid": "cbb610ff-dd71-4a2d-a517-ffea4cb2fd59",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_05.png": {
+    "time": 1394762505746.3318,
+    "uuid": "65136195-ea97-4a01-a52a-5701d5372285",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_06.png": {
+    "time": 1394762505747.3323,
+    "uuid": "9b42f021-0258-4dc5-9925-7a6ff41a0467",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_07.png": {
+    "time": 1394762505748.3416,
+    "uuid": "9fc021b9-8806-4b94-8b9d-58ce5785f4d6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_08.png": {
+    "time": 1394762505749.341,
+    "uuid": "5149508c-f81f-435b-b822-bfcd6aa74012",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_09.png": {
+    "time": 1394762505749.341,
+    "uuid": "25762135-1ef8-4e9a-a3f4-23585c6b242a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe2_down.png": {
+    "time": 1394762505753.3325,
+    "uuid": "599f2c02-45ce-44d3-884d-149f459607fa",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe2_up.png": {
+    "time": 1394762505756.3425,
+    "uuid": "403af881-73e7-4a73-808c-adf7c33f1ec5",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe_down.png": {
+    "time": 1394762505759.342,
+    "uuid": "f5dcbe0f-a881-472d-b6fb-893dd40108cf",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe_up.png": {
+    "time": 1394762505762.3342,
+    "uuid": "c61108cc-83db-493e-9a52-799baba34697",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\score_panel.png": {
+    "time": 1394762505764.3428,
+    "uuid": "2785f521-7222-4eb8-b997-0a7f2257aaf4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\text_game_over.png": {
+    "time": 1394762505765.3337,
+    "uuid": "46e37a38-c1dd-4f64-8139-92b593ec2139",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\text_ready.png": {
+    "time": 1394762505767.343,
+    "uuid": "fa529b03-97e7-4248-bed8-315e05ca8fcb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\title.png": {
+    "time": 1394762505768.343,
+    "uuid": "515db26b-68eb-448c-be56-2ed80ec5d4d8",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\tutorial.png": {
+    "time": 1394762505769.3347,
+    "uuid": "ea55afdb-dfb0-4d18-9878-7797f800541f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\white.png": {
+    "time": 1394762505769.3347,
+    "uuid": "c5eb6da6-f6aa-49d1-8943-5ca298595061",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\fbx.meta": {
+    "time": 1660531764835.882
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture.meta": {
+    "time": 1660531764836.8818
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_0.png.meta": {
+    "time": 1660711639684.7622
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bg_night.png.meta": {
+    "time": 1660711639674.0127
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_1.png.meta": {
+    "time": 1660711639692.5796
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bg_day.png.meta": {
+    "time": 1660711639686.717
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird0_2.png.meta": {
+    "time": 1660711639698.4417
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_0.png.meta": {
+    "time": 1660711639708.2124
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_1.png.meta": {
+    "time": 1660711639705.281
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird1_2.png.meta": {
+    "time": 1660711639713.0981
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_1.png.meta": {
+    "time": 1660711639728.7334
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_0.png.meta": {
+    "time": 1660711639716.0305
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\bird2_2.png.meta": {
+    "time": 1660711639726.7783
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\black.png.meta": {
+    "time": 1660711639734.5962
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_00.png.meta": {
+    "time": 1660711639735.5725
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_02.png.meta": {
+    "time": 1660711639750.23
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\blink_01.png.meta": {
+    "time": 1660711639748.2754
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\brand_copyright.png.meta": {
+    "time": 1660711639755.1174
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_menu.png.meta": {
+    "time": 1660711639764.8867
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_ok.png.meta": {
+    "time": 1660711639767.818
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_pause.png.meta": {
+    "time": 1660711639779.5447
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_play.png.meta": {
+    "time": 1660744050819.0913
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_rate.png.meta": {
+    "time": 1660711639784.4294
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_resume.png.meta": {
+    "time": 1660744206839.794
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_score.png.meta": {
+    "time": 1660711639793.2249
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\button_share.png.meta": {
+    "time": 1660711639798.1094
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_049.png.meta": {
+    "time": 1660711639808.859
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_048.png.meta": {
+    "time": 1660711639802.996
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_051.png.meta": {
+    "time": 1660711639818.6306
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_050.png.meta": {
+    "time": 1660711639813.744
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_052.png.meta": {
+    "time": 1660711639822.5378
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_053.png.meta": {
+    "time": 1660711639827.4243
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_054.png.meta": {
+    "time": 1660711639831.3323
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_055.png.meta": {
+    "time": 1660711639837.1953
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_056.png.meta": {
+    "time": 1660711639841.104
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\font_057.png.meta": {
+    "time": 1660711639849.898
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\land.png.meta": {
+    "time": 1660744565469.4639
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_0.png.meta": {
+    "time": 1660711639859.6697
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_2.png.meta": {
+    "time": 1660711639870.4187
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_1.png.meta": {
+    "time": 1660711639864.5554
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\medals_3.png.meta": {
+    "time": 1660711639874.3264
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\new.png.meta": {
+    "time": 1660750683771.7744
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_01.png.meta": {
+    "time": 1660711639888.007
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_02.png.meta": {
+    "time": 1660711639892.892
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_00.png.meta": {
+    "time": 1660711639883.121
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_03.png.meta": {
+    "time": 1660711639898.7588
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_06.png.meta": {
+    "time": 1660711639916.3442
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_05.png.meta": {
+    "time": 1660711639907.5498
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_04.png.meta": {
+    "time": 1660711639901.692
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_07.png.meta": {
+    "time": 1660711639961.2922
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_08.png.meta": {
+    "time": 1660711639966.178
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_09.png.meta": {
+    "time": 1660711639967.155
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_context_10.png.meta": {
+    "time": 1660711639974.9724
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_00.png.meta": {
+    "time": 1660711639984.7463
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_01.png.meta": {
+    "time": 1660711639988.6523
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_04.png.meta": {
+    "time": 1660711640001.3547
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_03.png.meta": {
+    "time": 1660711639997.448
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_02.png.meta": {
+    "time": 1660711639990.607
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_05.png.meta": {
+    "time": 1660711640007.2185
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_07.png.meta": {
+    "time": 1660711640011.1265
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_06.png.meta": {
+    "time": 1660711640009.1724
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_08.png.meta": {
+    "time": 1660711640018.9436
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\number_score_09.png.meta": {
+    "time": 1660711640023.829
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe2_down.png.meta": {
+    "time": 1660711640032.627
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe_down.png.meta": {
+    "time": 1660711640036.5327
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe2_up.png.meta": {
+    "time": 1660711640033.6013
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\pipe_up.png.meta": {
+    "time": 1660711640044.3499
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\score_panel.png.meta": {
+    "time": 1660711640046.304
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\text_game_over.png.meta": {
+    "time": 1660743094779.767
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\text_ready.png.meta": {
+    "time": 1660711640057.0525
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\title.png.meta": {
+    "time": 1660750434684.8037
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\tutorial.png.meta": {
+    "time": 1660711640064.8694
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\white.png.meta": {
+    "time": 1660711640061.9387
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\fbx\\flappybird.fbx.meta": {
+    "time": 1660711639979.8577
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\fbx": {
+    "time": 1660531853627.1787,
+    "uuid": "6f7a40a7-0c40-4e66-94b4-21cfb419f81b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab": {
+    "time": 1661006162354.14,
+    "uuid": "6acab76f-2bb7-4d95-9f63-0829c053bd74",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene": {
+    "time": 1660922375651.687,
+    "uuid": "7d0c00c7-87af-462c-92bd-f659ac9ab9a2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script": {
+    "time": 1660531853730.455,
+    "uuid": "dc95263a-c937-4259-906b-3eb21b0243cd",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture": {
+    "time": 1660742788049.857,
+    "uuid": "50c04225-1dff-4a21-a899-dfc084b5331c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\fbx\\flappybird.fbx": {
+    "time": 1659665167373.6724,
+    "uuid": "c44fce58-af7f-4b35-9794-8551f0119bae",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\game.scene": {
+    "time": 1660750903107.1287,
+    "uuid": "beb2a1ae-8fd2-4666-a256-ef7590646160",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\main.scene": {
+    "time": 1660921877167.711,
+    "uuid": "f98039cf-fa85-42ba-a31d-32946fdcce5d",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\scene.zip": {
+    "time": 1660107179747.2148,
+    "uuid": "20a5f91f-6809-46a1-8b7f-7cb3f8d34f4c",
+    "missing": true
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\BirdCtrl.ts": {
+    "time": 1661054905159.9297,
+    "uuid": "bc88c88b-899b-4918-8c0f-7caa4ffb4e81",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameData.ts": {
+    "time": 1660143119977.7048,
+    "uuid": "a69ef45e-72e4-45fb-94b4-10874780555f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameManager.ts": {
+    "time": 1661054451593.2288,
+    "uuid": "01ab088c-b53d-4e7f-ba3a-031890833e67",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameSceneChange.ts": {
+    "time": 1661055016158.171,
+    "uuid": "27dd40e4-cbfd-4207-b75b-34192531d3c1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\MenuManager.ts": {
+    "time": 1661054987135.1704,
+    "uuid": "64f33bf1-f653-4041-92b9-f477bb58cdee",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\Setting.ts": {
+    "time": 1660629524965.1084,
+    "uuid": "0bea080b-53e7-4776-ab1a-6face1963509",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\SettingManager.ts": {
+    "time": 1660921971791.4739,
+    "uuid": "2100efc0-ba74-41d7-b0ad-7a08e005c9f2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bg_day.png": {
+    "time": 1394762505622.2705,
+    "uuid": "479e22db-900c-4a54-819e-6be599d59280",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bg_night.png": {
+    "time": 1394762505627.2715,
+    "uuid": "e350590f-0d40-4eb3-9b18-29fa50045031",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_0.png": {
+    "time": 1394762505628.2703,
+    "uuid": "388e0bd6-9f9a-405d-a479-6401066a4bc7",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_1.png": {
+    "time": 1394762505629.2705,
+    "uuid": "a246f4e8-970e-4dc6-b842-f592130b263a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_2.png": {
+    "time": 1394762505630.2705,
+    "uuid": "2e17dc14-648b-448b-aa05-95dcf3a65ec9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_0.png": {
+    "time": 1394762505631.2712,
+    "uuid": "b089d980-8e06-4147-a9c7-c95d268844e4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_1.png": {
+    "time": 1394762505632.272,
+    "uuid": "253dc258-ac90-403b-ad92-07c2e87380e4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_2.png": {
+    "time": 1394762505632.272,
+    "uuid": "c1df6dc5-8822-4b05-9a98-208fa9c2a0ad",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_0.png": {
+    "time": 1394762505633.271,
+    "uuid": "bc6de68b-ca80-4732-8b93-025719cb35ea",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_1.png": {
+    "time": 1394762505634.2712,
+    "uuid": "317e78fe-1c12-45f2-b62f-fb46865673f6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_2.png": {
+    "time": 1394762505635.2725,
+    "uuid": "430c6ece-743d-4772-ab33-c1783ab63d60",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\black.png": {
+    "time": 1394762505636.2722,
+    "uuid": "7f809e21-1d8b-4d74-8ff3-c7f910e0c1e1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_00.png": {
+    "time": 1394762505636.2722,
+    "uuid": "62b01b45-07a6-4b49-8aa9-d283d44188bf",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_01.png": {
+    "time": 1394762505637.2715,
+    "uuid": "bb8fe55e-e9db-451f-b61b-4b895f296c0a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_02.png": {
+    "time": 1394762505638.273,
+    "uuid": "739dd0ca-3afc-4bc8-adfc-d02e380d43db",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\brand_copyright.png": {
+    "time": 1394762505639.2722,
+    "uuid": "69fedf95-098d-449a-a6ec-7977cb148823",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_menu.png": {
+    "time": 1394762505639.2722,
+    "uuid": "4b033aa5-9869-4421-8684-7055e1997d87",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_ok.png": {
+    "time": 1394762505640.2715,
+    "uuid": "7810b8cf-8c81-4af4-a879-3c21b738151a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_pause.png": {
+    "time": 1394762505641.272,
+    "uuid": "465ef6a4-6793-4f56-a114-67fa3402f37f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_play.png": {
+    "time": 1394762505642.2722,
+    "uuid": "9f3c4f14-f726-4ba9-950d-28c573dfd629",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_rate.png": {
+    "time": 1394762505643.274,
+    "uuid": "7bfb47e5-d0b7-405d-87cd-e30c31116df5",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_resume.png": {
+    "time": 1394762505644.2737,
+    "uuid": "c7aa847d-16f4-412e-88e5-5bcd09b7f4e1",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_score.png": {
+    "time": 1394762505645.2737,
+    "uuid": "9d7be919-080e-4955-b972-8fa5711c065b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_share.png": {
+    "time": 1394762505646.2725,
+    "uuid": "8d8fd138-aca0-45e0-9696-0d01ec9d248c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_048.png": {
+    "time": 1394762505646.2725,
+    "uuid": "55666eca-75e4-4d90-8b46-0fa536dbbd94",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_049.png": {
+    "time": 1394762505647.2742,
+    "uuid": "93a23345-31b3-4c92-9a2a-6f52b45417e6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_050.png": {
+    "time": 1394762505648.2727,
+    "uuid": "f9eee700-80ce-4b47-956e-52f7bf464489",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_051.png": {
+    "time": 1394762505649.2734,
+    "uuid": "8afc2495-d35b-4803-98ac-db4de0691d26",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_052.png": {
+    "time": 1394762505652.2732,
+    "uuid": "edf839e7-8863-4f0a-a59c-dfc86782c0cb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_053.png": {
+    "time": 1394762505653.2742,
+    "uuid": "d64a19b1-27e0-4630-bbc6-ab9136a2bf32",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_054.png": {
+    "time": 1394762505654.2744,
+    "uuid": "c8bc606e-e4a5-495d-9d51-e23a092a1de9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_055.png": {
+    "time": 1394762505655.2747,
+    "uuid": "bc94984f-02fd-4ff0-b8aa-ae24a8c94793",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_056.png": {
+    "time": 1394762505657.275,
+    "uuid": "6d7aa0e1-018f-49af-b09a-247517ef798f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_057.png": {
+    "time": 1394762505716.3318,
+    "uuid": "86075db5-fa93-407d-8370-38b0991cbe91",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\land.png": {
+    "time": 1394762505722.3298,
+    "uuid": "cca1f289-643f-43c7-991e-f322c23112fb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_0.png": {
+    "time": 1394762505724.3303,
+    "uuid": "a968d56d-fe7d-4f4b-890d-50f05c517e87",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_1.png": {
+    "time": 1394762505726.3325,
+    "uuid": "fd422bf4-4007-49bb-b858-bad8bced6c05",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_2.png": {
+    "time": 1394762505728.3442,
+    "uuid": "a7467faf-6b90-453c-b8c9-3220f61d2517",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_3.png": {
+    "time": 1394762505730.3438,
+    "uuid": "37873887-5330-4cf3-b7e1-b9b5feaf346d",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\new.png": {
+    "time": 1394762505732.346,
+    "uuid": "dcca0d57-b0d3-450e-a5d5-552f99b97d29",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_00.png": {
+    "time": 1394762505733.3442,
+    "uuid": "9efe092d-3550-48a6-98be-fd7f8b9b7b5c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_01.png": {
+    "time": 1394762505734.3394,
+    "uuid": "1a92781e-1380-455c-a8e5-16479875203a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_02.png": {
+    "time": 1394762505735.3308,
+    "uuid": "67f11d34-99ba-4db0-ad42-5ef90e69b9ea",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_03.png": {
+    "time": 1394762505735.3308,
+    "uuid": "b4d2cab4-3cc2-4402-b119-23c08f4a5401",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_04.png": {
+    "time": 1394762505736.3313,
+    "uuid": "971de7c9-5c7f-4cc7-929b-183335704e50",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_05.png": {
+    "time": 1394762505737.3306,
+    "uuid": "53e433e4-672e-415c-9e8c-13bf81367918",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_06.png": {
+    "time": 1394762505738.34,
+    "uuid": "e0c33c66-0c05-40f9-8de3-7ca229e4a831",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_07.png": {
+    "time": 1394762505739.3313,
+    "uuid": "f555acf8-8c56-48e5-81cb-7d6d086159ed",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_08.png": {
+    "time": 1394762505739.3313,
+    "uuid": "632c6dc3-ec43-417e-a719-cc04c743f789",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_09.png": {
+    "time": 1394762505740.3315,
+    "uuid": "e2bf1635-415c-4172-a649-2ae2e5f658e6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_10.png": {
+    "time": 1394762505741.3308,
+    "uuid": "c05427fa-03ca-472e-a8b5-3276445ec90a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_00.png": {
+    "time": 1394762505742.3403,
+    "uuid": "d15751b4-2e81-45a0-945c-9438f18538b9",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_01.png": {
+    "time": 1394762505743.3318,
+    "uuid": "f3a9b874-ffaa-4f74-b6ed-4d702a03203b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_02.png": {
+    "time": 1394762505744.3408,
+    "uuid": "23fae726-2d36-4702-8d25-969c23154238",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_03.png": {
+    "time": 1394762505745.332,
+    "uuid": "0111a4e7-d36e-4689-8d86-22c0a343632a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_04.png": {
+    "time": 1394762505745.332,
+    "uuid": "cbb610ff-dd71-4a2d-a517-ffea4cb2fd59",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_05.png": {
+    "time": 1394762505746.3318,
+    "uuid": "65136195-ea97-4a01-a52a-5701d5372285",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_06.png": {
+    "time": 1394762505747.3323,
+    "uuid": "9b42f021-0258-4dc5-9925-7a6ff41a0467",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_07.png": {
+    "time": 1394762505748.3416,
+    "uuid": "9fc021b9-8806-4b94-8b9d-58ce5785f4d6",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_08.png": {
+    "time": 1394762505749.341,
+    "uuid": "5149508c-f81f-435b-b822-bfcd6aa74012",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_09.png": {
+    "time": 1394762505749.341,
+    "uuid": "25762135-1ef8-4e9a-a3f4-23585c6b242a",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe2_down.png": {
+    "time": 1394762505753.3325,
+    "uuid": "599f2c02-45ce-44d3-884d-149f459607fa",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe2_up.png": {
+    "time": 1394762505756.3425,
+    "uuid": "403af881-73e7-4a73-808c-adf7c33f1ec5",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe_down.png": {
+    "time": 1394762505759.342,
+    "uuid": "f5dcbe0f-a881-472d-b6fb-893dd40108cf",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe_up.png": {
+    "time": 1394762505762.3342,
+    "uuid": "c61108cc-83db-493e-9a52-799baba34697",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\score_panel.png": {
+    "time": 1394762505764.3428,
+    "uuid": "2785f521-7222-4eb8-b997-0a7f2257aaf4",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\text_game_over.png": {
+    "time": 1394762505765.3337,
+    "uuid": "46e37a38-c1dd-4f64-8139-92b593ec2139",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\text_ready.png": {
+    "time": 1394762505767.343,
+    "uuid": "fa529b03-97e7-4248-bed8-315e05ca8fcb",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\title.png": {
+    "time": 1394762505768.343,
+    "uuid": "515db26b-68eb-448c-be56-2ed80ec5d4d8",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\tutorial.png": {
+    "time": 1394762505769.3347,
+    "uuid": "ea55afdb-dfb0-4d18-9878-7797f800541f",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\white.png": {
+    "time": 1394762505769.3347,
+    "uuid": "c5eb6da6-f6aa-49d1-8943-5ca298595061",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\fbx.meta": {
+    "time": 1660531764835.882
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab.meta": {
+    "time": 1658590713882.8025
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene.meta": {
+    "time": 1658051798185.109
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script.meta": {
+    "time": 1658055393756.3235
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture.meta": {
+    "time": 1660531764836.8818
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\game.scene.meta": {
+    "time": 1660711639637.8594
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\BirdCtrl.ts.meta": {
+    "time": 1658569521033.4563
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\main.scene.meta": {
+    "time": 1660711639645.6765
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameData.ts.meta": {
+    "time": 1660052693613.1228
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameManager.ts.meta": {
+    "time": 1658055406044.4749
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\GameSceneChange.ts.meta": {
+    "time": 1658056151415.059
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\MenuManager.ts.meta": {
+    "time": 1659232885176.0635
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\Setting.ts.meta": {
+    "time": 1660051160470.514
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\script\\SettingManager.ts.meta": {
+    "time": 1660060446979.3076
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\scene\\scene.zip.meta": {
+    "time": 1660107208019.4436
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bg_night.png.meta": {
+    "time": 1660711639674.0127
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_0.png.meta": {
+    "time": 1660711639684.7622
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_1.png.meta": {
+    "time": 1660711639692.5796
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bg_day.png.meta": {
+    "time": 1660711639686.717
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\fbx\\flappybird.fbx.meta": {
+    "time": 1660711639979.8577
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird0_2.png.meta": {
+    "time": 1660711639698.4417
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_1.png.meta": {
+    "time": 1660711639705.281
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_0.png.meta": {
+    "time": 1660711639708.2124
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird1_2.png.meta": {
+    "time": 1660711639713.0981
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_0.png.meta": {
+    "time": 1660711639716.0305
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_1.png.meta": {
+    "time": 1660711639728.7334
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\bird2_2.png.meta": {
+    "time": 1660711639726.7783
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\black.png.meta": {
+    "time": 1660711639734.5962
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_00.png.meta": {
+    "time": 1660711639735.5725
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_01.png.meta": {
+    "time": 1660711639748.2754
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_menu.png.meta": {
+    "time": 1660711639764.8867
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\blink_02.png.meta": {
+    "time": 1660711639750.23
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\brand_copyright.png.meta": {
+    "time": 1660711639755.1174
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_ok.png.meta": {
+    "time": 1660711639767.818
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_pause.png.meta": {
+    "time": 1660711639779.5447
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_resume.png.meta": {
+    "time": 1660744206839.794
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_rate.png.meta": {
+    "time": 1660711639784.4294
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_play.png.meta": {
+    "time": 1660744050819.0913
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_score.png.meta": {
+    "time": 1660711639793.2249
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\button_share.png.meta": {
+    "time": 1660711639798.1094
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_049.png.meta": {
+    "time": 1660711639808.859
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_048.png.meta": {
+    "time": 1660711639802.996
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_051.png.meta": {
+    "time": 1660711639818.6306
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_050.png.meta": {
+    "time": 1660711639813.744
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_052.png.meta": {
+    "time": 1660711639822.5378
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_054.png.meta": {
+    "time": 1660711639831.3323
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_053.png.meta": {
+    "time": 1660711639827.4243
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_055.png.meta": {
+    "time": 1660711639837.1953
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_056.png.meta": {
+    "time": 1660711639841.104
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\font_057.png.meta": {
+    "time": 1660711639849.898
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\land.png.meta": {
+    "time": 1660744565469.4639
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_0.png.meta": {
+    "time": 1660711639859.6697
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_2.png.meta": {
+    "time": 1660711639870.4187
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_1.png.meta": {
+    "time": 1660711639864.5554
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\medals_3.png.meta": {
+    "time": 1660711639874.3264
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\new.png.meta": {
+    "time": 1660750683771.7744
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_00.png.meta": {
+    "time": 1660711639883.121
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_02.png.meta": {
+    "time": 1660711639892.892
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_01.png.meta": {
+    "time": 1660711639888.007
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_03.png.meta": {
+    "time": 1660711639898.7588
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_04.png.meta": {
+    "time": 1660711639901.692
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_06.png.meta": {
+    "time": 1660711639916.3442
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_05.png.meta": {
+    "time": 1660711639907.5498
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_07.png.meta": {
+    "time": 1660711639961.2922
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_08.png.meta": {
+    "time": 1660711639966.178
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_09.png.meta": {
+    "time": 1660711639967.155
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_context_10.png.meta": {
+    "time": 1660711639974.9724
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_00.png.meta": {
+    "time": 1660711639984.7463
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_01.png.meta": {
+    "time": 1660711639988.6523
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_02.png.meta": {
+    "time": 1660711639990.607
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_03.png.meta": {
+    "time": 1660711639997.448
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_04.png.meta": {
+    "time": 1660711640001.3547
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_05.png.meta": {
+    "time": 1660711640007.2185
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_06.png.meta": {
+    "time": 1660711640009.1724
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_07.png.meta": {
+    "time": 1660711640011.1265
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_08.png.meta": {
+    "time": 1660711640018.9436
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\number_score_09.png.meta": {
+    "time": 1660711640023.829
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe2_down.png.meta": {
+    "time": 1660711640032.627
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe2_up.png.meta": {
+    "time": 1660711640033.6013
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe_down.png.meta": {
+    "time": 1660711640036.5327
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\pipe_up.png.meta": {
+    "time": 1660711640044.3499
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\text_ready.png.meta": {
+    "time": 1660711640057.0525
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\score_panel.png.meta": {
+    "time": 1660711640046.304
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\text_game_over.png.meta": {
+    "time": 1660743094779.767
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\title.png.meta": {
+    "time": 1660750434684.8037
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\white.png.meta": {
+    "time": 1660711640061.9387
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\tutorial.png.meta": {
+    "time": 1660711640064.8694
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab\\background.prefab.meta": {
+    "time": 1660711639618.3179
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab\\background.prefab": {
+    "time": 1660744618833.6487,
+    "uuid": "d9c12350-0948-4575-a6b4-3a7abc4cb4e2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font.meta": {
+    "time": 1660557698098.2224
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font": {
+    "time": 1660557716075.1875,
+    "uuid": "b0e0808f-0af2-49ff-9e7c-4a7c9efeb264",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.fnt.meta": {
+    "time": 1660711639615.3845
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.png.meta": {
+    "time": 1660711639651.5383
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.fnt": {
+    "time": 1592814224000,
+    "uuid": "7bfd83f5-30bc-4cc7-8b4b-5921e33fbd1b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\font\\number.png": {
+    "time": 1592814224000,
+    "uuid": "546d0f50-275a-4c72-99f4-dc7fd971df40",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material.meta": {
+    "time": 1660647234052.1633
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material": {
+    "time": 1661004679026.7903,
+    "uuid": "97d813fb-f225-411b-b4e7-ccdf59faa771",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material\\brick.mtl.meta": {
+    "time": 1660647268568.3772
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\material\\brick.mtl": {
+    "time": 1660648348329.197,
+    "uuid": "c94483ee-c620-4d5b-808b-0f27ddcc52b2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\book.png.meta": {
+    "time": 1660742991026.542
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\texture\\book.png": {
+    "time": 1660742980073.9485,
+    "uuid": "5f85bc9d-ccb4-417d-8a66-07992c855657",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab\\brick.prefab.meta": {
+    "time": 1660749659938.2798
+  },
+  "E:\\04Project\\Cocos\\FlappyBird2\\assets\\prefab\\brick.prefab": {
+    "time": 1660749659935.3484,
+    "uuid": "f9512591-9a75-4033-9f2e-7ddeedb8a20c",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font": {
+    "time": 1660557716075.1875,
+    "uuid": "b0e0808f-0af2-49ff-9e7c-4a7c9efeb264",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\material": {
+    "time": 1661004679026.7903,
+    "uuid": "97d813fb-f225-411b-b4e7-ccdf59faa771",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font.meta": {
+    "time": 1660557698098.2224
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\material.meta": {
+    "time": 1660647234052.1633
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.fnt": {
+    "time": 1592814224000,
+    "uuid": "7bfd83f5-30bc-4cc7-8b4b-5921e33fbd1b",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.png": {
+    "time": 1592814224000,
+    "uuid": "546d0f50-275a-4c72-99f4-dc7fd971df40",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\material\\brick.mtl": {
+    "time": 1660648348329.197,
+    "uuid": "c94483ee-c620-4d5b-808b-0f27ddcc52b2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab\\background.prefab": {
+    "time": 1660744618833.6487,
+    "uuid": "d9c12350-0948-4575-a6b4-3a7abc4cb4e2",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\book.png": {
+    "time": 1660742980073.9485,
+    "uuid": "5f85bc9d-ccb4-417d-8a66-07992c855657",
+    "missing": false
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\prefab\\background.prefab.meta": {
+    "time": 1660711639618.3179
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\material\\brick.mtl.meta": {
+    "time": 1660647268568.3772
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.fnt.meta": {
+    "time": 1660711639615.3845
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\font\\number.png.meta": {
+    "time": 1660711639651.5383
+  },
+  "E:\\04Project\\Cocos\\FlappyBird\\assets\\texture\\book.png.meta": {
+    "time": 1660742991026.542
+  }
+}
